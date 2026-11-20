@@ -3,3 +3,5 @@ instances
 key pair
 security group
 subnets
+AMI
+instance type
