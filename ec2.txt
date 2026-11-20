@@ -1,5 +1,5 @@
 this is ec2 service
 instances
 key pair
-sg
+security group
 subnets
